@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luan Oliveira 👋
 
-- 🐍 Atualmente estou aprendendo Python
+- 🐍 Atualmente estou estudando Python
 - 📫 Pode me contatar via https://www.linkedin.com/in/luansilvaoliveira/
 - 😄 Pronomes: ele/dele
 - 🖥 Desenvolvedor Web Front-End (formado pelo Instituto PROA)
