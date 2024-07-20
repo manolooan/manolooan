@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Luan Oliveira 👋
 
-- 💻 Atualmente estou estudando Desenvolvimento Mobile (Flutter)
-- 📝 Estudante de Analise e desenvolvimento de sistemas (Faculdade FAM)
+- 💻 Atualmente estou estudando Desenvolvimento Web
 - 📫 Pode me contatar via https://www.linkedin.com/in/luansilvaoliveira/
 - 😄 Pronomes: ele/dele
 - 🖥 Desenvolvedor Web Front-End (formado pelo Instituto PROA)
